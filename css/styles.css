@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+p{
+  font-family: sans-serif;
+}
+h1{
+  margin-top: 50px;
+  font-size: 4em;
+  font-family:'Redressed', cursive;
+  color: #66BFBF;
+  line-height: 0.5;
+}
+h2{
+  font-weight: normal;
+  color:#66BFBF;
+}
+h3,a{
+  color:#11999E;
+}
+p1{
+   font-size: 12em;
+}
+.top-container{
+  background-color: #E4F9F5;
+  padding-top:150px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:250px;
+  left:300px;
+}
+.top-cloud{
+  position: absolute;
+  top:100px;
+  margin-left: 120px;
+
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  font-family: sans-serif;
+  text-align: left;
+  line-height: 2;
+}
+.chi{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.co
+{  width: 25%;
+   float: right;
+   margin-left: 30px;
+}
+.lochi{
+  clear: left;
+}
+.loco{
+  clear:right;
+}
+.profile{
+  margin-top: 100px;
+  margin-bottom:100px;
+}
+
+.profile p{
+
+  width: 30%;
+  margin: auto;
+}
+
+hr{
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  width: 4%;
+
+}
+.contact-me{
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+.cp{
+  width:30%;
+  margin:50px auto 50px auto;
+}
+.btn {
+  background: #40dede;
+  background-image: -webkit-linear-gradient(top, #40dede, #93e0e6);
+  background-image: -moz-linear-gradient(top, #40dede, #93e0e6);
+  background-image: -ms-linear-gradient(top, #40dede, #93e0e6);
+  background-image: -o-linear-gradient(top, #40dede, #93e0e6);
+  background-image: linear-gradient(to bottom, #40dede, #93e0e6);
+  -webkit-border-radius: 54;
+  -moz-border-radius: 54;
+  border-radius: 54px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 7px 40px 10px 40px;
+  border: solid #6f7e87 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color:  #66BFBF;
+  padding:50px 0  20px;
+
+}
+a{
+  color:#11999E;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.name{
+  color:#EAF6F6;
+  
+}
